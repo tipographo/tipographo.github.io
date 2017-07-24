@@ -9,9 +9,11 @@ body {
 }
 p {
   font-size: 20px;
+  text-align: justify;
 }
 p.small {
   font-size: 16px;
+  text-align: justify;
 }
 a,
 a:hover,
